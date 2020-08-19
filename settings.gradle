@@ -1,3 +1,6 @@
+include ':ucrop'
+include ':graphic'
 include ':commonlib'
+include ':base'
 include ':app'
 rootProject.name = "Ljjlibs"
