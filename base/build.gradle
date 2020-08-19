@@ -141,8 +141,6 @@ dependencies {
     implementation( name: 'alipaySdk-15.6.5-20190718211159-noUtdid', ext: 'aar')
     api 'com.tencent.mm.opensdk:wechat-sdk-android-with-mta:+'
 
-
-
     //--------------um----------------------------//
     api 'com.umeng.umsdk:analytics:7.5.4'
     api 'com.umeng.umsdk:common:1.5.4'
